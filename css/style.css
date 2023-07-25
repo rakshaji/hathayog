@@ -2186,3 +2186,13 @@ a:focus {
 }
 
 /** for floating whatsapp ends **/
+
+.quick-links p {
+    color: #dddddd;
+    font-size: small;
+}
+
+.quick-links p a {
+    color: #dddddd;
+    font-size: small;
+}
