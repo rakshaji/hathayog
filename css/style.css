@@ -124,6 +124,13 @@ a:focus {
     margin: 0 0 0 5px;
 }
 
+.top-bar .text a {
+    color: #eeeeee;
+    font-size: 14px;
+    font-weight: 400;
+    margin: 0 0 0 5px;
+}
+
 .top-bar .social {
     display: flex;
     height: 35px;
@@ -163,6 +170,11 @@ a:focus {
     .top-bar {
         padding: 0 60px;
     }
+}
+
+.top-bar .text a:hover {
+    color: #092a49;
+    background: #ffffff;
 }
 
 
