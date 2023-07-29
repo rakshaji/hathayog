@@ -739,8 +739,8 @@ a:focus {
 .class .class-item {
     position: relative;
     margin-bottom: 30px;
-    overflow: hidden;
-    transition: .3s;
+    /* overflow: hidden;
+    transition: .3s; */
 }
 
 .class .class-wrap {
