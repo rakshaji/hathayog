@@ -742,7 +742,7 @@ a:focus {
     background-color: white;
     position: relative;
     margin-bottom: 30px;
-    overflow: scroll;
+    overflow: visible;
     transition: .3s;
     z-index: 1;
 }
