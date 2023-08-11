@@ -742,6 +742,7 @@ a:focus {
     margin-bottom: 30px;
     overflow: hidden;
     transition: .3s;
+    z-index: 9;
 }
 
 .class .class-wrap {
