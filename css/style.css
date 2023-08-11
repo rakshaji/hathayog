@@ -195,7 +195,7 @@ a:focus {
 }
 
 .navbar .navbar-brand {
-    padding-top: 15px;
+    padding-top: 25px;
     margin: 0;
     color: white;
     font-size: 40px;
@@ -2090,12 +2090,6 @@ a:focus {
     }
 }
 
-  .logo{
-    width: 110px;
-    /* margin-right: 10px; */
-    height: 80px;  
-    /* margin-bottom: 12px;     */
-  } 
 
   /* .program .program-action {
     border: 1px solid rgba(0, 0, 0, .07);
@@ -2204,6 +2198,6 @@ a:focus {
 .logo {
     width: 90px;
     height: 80px;
-    margin-top: -15px;
+    margin-top: -25px;
     position: relative;
 }
