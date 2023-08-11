@@ -205,6 +205,7 @@ a:focus {
     letter-spacing: 2px;
     transition: .5s;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;   
+    /* position: absolute; */
 }
 
 .navbar .navbar-brand h4 {
@@ -2198,4 +2199,11 @@ a:focus {
 .quick-links p a {
     color: #dddddd;
     font-size: small;
+}
+
+.logo {
+    width: 90px;
+    height: 80px;
+    margin-top: -15px;
+    position: relative;
 }
