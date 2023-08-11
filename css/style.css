@@ -738,9 +738,11 @@ a:focus {
 }
 
 .class .class-item {
+    /* border: 1px solid black; */
+    background-color: white;
     position: relative;
     margin-bottom: 30px;
-    overflow: hidden;
+    overflow: scroll;
     transition: .3s;
     z-index: 1;
 }
@@ -1965,7 +1967,7 @@ a:focus {
     position: relative;
     margin-top: 45px;
     background: hwb(21 16% 53%);
-    z-index: 1;
+    z-index: .9;
 }
 
 .footer .container-fluid {
