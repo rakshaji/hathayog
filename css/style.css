@@ -1965,6 +1965,7 @@ a:focus {
     position: relative;
     margin-top: 45px;
     background: hwb(21 16% 53%);
+    z-index: 1;
 }
 
 .footer .container-fluid {
