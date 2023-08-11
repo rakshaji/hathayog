@@ -1994,6 +1994,12 @@ a:focus {
     margin-bottom: 45px;
 }
 
+.footer .footer-info .logo-footer {
+    height: 130px;
+    margin-top: -60px;
+    /* width: 90px; */
+}
+
 .footer .footer-info .footer-logo h4 {
     color: #fcdfcb;
     text-transform: none;
@@ -2086,6 +2092,7 @@ a:focus {
     color: #fcdfcb;
 }
 
+
 @media (max-width: 767.98px) {
     .footer .copyright p,
     .footer .copyright .col-md-6:last-child p {
@@ -2093,6 +2100,8 @@ a:focus {
         text-align: center;
     }
 }
+
+
 
 
   /* .program .program-action {
@@ -2188,6 +2197,10 @@ a:focus {
 }
 
 /** for floating whatsapp ends **/
+.quick-links{
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
 
 .quick-links p {
     color: #dddddd;
