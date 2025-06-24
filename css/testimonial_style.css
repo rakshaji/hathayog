@@ -1,0 +1,53 @@
+#content {
+  max-width: 600px;
+  margin: 10vh auto;
+  margin-top: -0vh;
+  margin-bottom: -0vh;
+}
+
+.testimonial blockquote {
+  margin: 10px 10px 0;
+  background: #fcdfcb;
+  padding: 20px 60px;
+  position: relative;
+  border: none;
+  border-radius: 8px;
+  color:black;
+}
+
+.testimonial blockquote:before,
+.testimonial blockquote:after {
+  content: "\201C";
+  position: absolute;
+  font-size: 80px;
+  line-height: 1;
+  color: hwb(21 16% 53%);
+  font-style: normal;
+}
+
+.testimonial blockquote:before {
+  top: 0;
+  left: 10px;
+}
+
+.testimonial blockquote:after {
+  content: "\201D";
+  right: 10px;
+  bottom: -0.5em;
+}
+
+.testimonial div {
+  width: 0;
+  height: 0;
+  border-left: 0 solid transparent;
+  border-right: 20px solid transparent;
+  border-top: 20px solid #fcdfcb;
+  margin: 0 0 0 60px;
+}
+
+.testimonial p {
+  margin: 8px 0 0 20px;
+  text-align: left;
+  font-weight: bold;
+  color: hwb(21 16% 53%);;
+}
